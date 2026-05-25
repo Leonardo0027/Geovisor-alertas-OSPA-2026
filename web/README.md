@@ -38,4 +38,4 @@ Cada cambio en un control actualiza todos los paneles correspondientes. El indic
 
 Producto técnico desarrollado en el marco del Contrato CTO-118 de 2026 entre el IDEAM y el contratista. Uso institucional. Citar como:
 
-> IDEAM (2026). *Geoviso OSPA — Alertas-Validación Incendios y Deslizamientos 2026*. Contrato CTO-118 de 2026.
+> IDEAM (2026). *Geovisor OSPA — Alertas-Validación Incendios y Deslizamientos 2026*. Contrato CTO-118 de 2026.
